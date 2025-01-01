@@ -1,3 +1,15 @@
 # BIT accounting framework
 
-Will be updated soon.
+Generic definition of what the BIT accounting framework is.
+
+
+## Custom workflows
+
+
+## Module integration
+
+
+## Licensing 
+
+
+## Installation 
